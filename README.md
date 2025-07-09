@@ -35,24 +35,14 @@ Our article has been published Artificial Intelligence in Medicine.
 
 If you find this study is useful, please cite our article.
 
-@article{LIAO2025103195,
-
-title = {ContraDTI: Improved drug–target interaction prediction via multi-view contrastive learning},
-
-journal = {Artificial Intelligence in Medicine},
-
-volume = {168},
-
-pages = {103195},
-
-year = {2025},
-
-issn = {0933-3657},
-
-doi = {https://doi.org/10.1016/j.artmed.2025.103195},
-
-url = {https://www.sciencedirect.com/science/article/pii/S0933365725001307},
-
-author = {Zhirui Liao and Lei Xie and Shanfeng Zhu}
-
-}
+>@article{ContraDTI2025Liao,
+>title = {ContraDTI: Improved drug–target interaction prediction via multi-view contrastive learning},
+>journal = {Artificial Intelligence in Medicine},
+>volume = {168},
+>pages = {103195},
+>year = {2025},
+>issn = {0933-3657},
+>doi = {https://doi.org/10.1016/j.artmed.2025.103195},
+>url = {https://www.sciencedirect.com/science/article/pii/S0933365725001307},
+>author = {Zhirui Liao and Lei Xie and Shanfeng Zhu},
+>}
