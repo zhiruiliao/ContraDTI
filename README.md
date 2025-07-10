@@ -52,7 +52,10 @@ If you find this study is useful, please cite our article.
 >doi = {https://doi.org/10.1016/j.artmed.2025.103195},
 >
 >url = {https://www.sciencedirect.com/science/article/pii/S0933365725001307},
->
+
+
+## Declaration
+It is free for non-commercial use. For commercial use, please contact with Zhirui Liao and Prof. Shanfeng Zhu (zhusf@fudan.edu.cn).
 >author = {Zhirui Liao and Lei Xie and Shanfeng Zhu}
 >
 >}
