@@ -31,7 +31,7 @@ Run `training.py` to train a model with default hyper-parameters.
 More hyper-parameter setting can be found and changed in code file `training.py`.
 
 ## Citation
-Our article has been published Artificial Intelligence in Medicine.
+Our article has been published in Artificial Intelligence in Medicine.
 
 If you find this study is useful, please cite our article.
 
